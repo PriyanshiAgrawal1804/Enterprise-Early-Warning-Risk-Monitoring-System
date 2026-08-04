@@ -1,0 +1,5 @@
+risk_segment,num_customers,avg_default_rate,avg_dti,avg_fico,avg_risk_score,avg_interest_rate
+Distressed,660,0.0318,0.1909,681.6333,3.088,11.6312
+Low-Risk,2890,0.0138,0.0429,678.1927,1.4903,11.5276
+Moderate-Risk,2648,0.0193,0.0437,679.7878,2.1378,11.668
+Watch-list,1802,0.0266,0.0426,681.0943,1.9504,11.6346
